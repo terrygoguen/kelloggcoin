@@ -27,3 +27,22 @@ blockchain = [
 # Anthony's KelloggCoin balance is 2650
 
 # 👇👇👇 Your code HERE 👇👇👇
+for total_amounnt in blockchain 
+  to_user = blockchain[0]["to_user"]
+  amount = blockchain[0]["amount"]
+  if 
+  puts "#{to_user} has #{amount}"
+end 
+
+# puts blockchain
+
+# index = 0 
+# loop do 
+#   if index == blockchain.size
+#     break 
+#   end
+#   total = blockchain[0]["amount"]
+#   puts total 
+# index = index + 1 
+# end
+
